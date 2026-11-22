@@ -2,11 +2,13 @@
 **Data Engineering | AWS & Databricks | Kubernetes | AI**
 - 👀 I’m interested in History /Myth/UFO
 
-[![Medium](https://shields.io)](https://medium.com/@watermark1983)
 
 ---
 
 ### 💻 About Me
+
+[![Medium]](https://medium.com/@watermark1983)
+
 I focus on hands-on Backend & AI engineering.  
 I enjoy writing graceful code and designing scalable system architectures.
 
