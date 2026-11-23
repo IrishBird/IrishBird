@@ -7,7 +7,7 @@
 
 ### 💻 About Me
 
-[![Medium]](https://medium.com/@watermark1983)
+[[Medium]](https://medium.com/@watermark1983)
 
 I focus on hands-on Backend & AI engineering.  
 I enjoy writing graceful code and designing scalable system architectures.
