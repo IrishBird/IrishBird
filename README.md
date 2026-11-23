@@ -20,12 +20,12 @@ I enjoy writing graceful code and designing scalable system architectures.
 ---
 
 ### 🛠 Skills & Tools
-[![Python](https://shields.io)](https://python.org)
-[![Java](https://shields.io)](https://java.com)
-[![AWS](https://shields.io)](https://amazon.com)
-[![Databricks](https://shields.io)](https://databricks.com)
-[![Kubernetes](https://shields.io)](https://kubernetes.io)
-[![Git](https://shields.io)](https://git-scm.com)
+[![Python](https://python.org)
+[![Java](https://java.com)
+[![AWS](https://amazon.com)
+[![Databricks](https://databricks.com)
+[![Kubernetes](https://kubernetes.io)
+[![Git](https://git-scm.com)
 
 ---
 
